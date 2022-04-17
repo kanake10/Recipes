@@ -15,12 +15,16 @@ Recipes Android App using [Android Architecture Components](https://developer.an
     * [Compose](https://developer.android.com/jetpack/compose) 
     * [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
     * [Flow](https://kotlinlang.org/docs/reference/coroutines/flow.html)
+     * Coil](https://coil-kt.github.io/coil/) An image loading library for Android backed by Kotlin Coroutines. 
 
 * Architecture
     * MVVM - Model View View Model
 
 * CI/CD
     * [Github Actions](https://github.com/actions)
+
+ * Firebase
+    * [GFirebase crashlytics](https://firebase.google.com/products/crashlytics)  Open-source error tracking that helps developers monitor and fix crashes in real time. Debug your application and prevent crashes across your entire stack. 
    
   
  ### Screenshot
