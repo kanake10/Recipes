@@ -19,12 +19,14 @@ Recipes Android App using [Android Architecture Components](https://developer.an
 
 * Architecture
     * MVVM - Model View View Model
+    
+* Firebase
+    * [Firebase crashlytics](https://firebase.google.com/products/crashlytics)  Open-source error tracking that helps developers monitor and fix crashes in real time. Debug your application and prevent crashes across your entire stack.
 
 * CI/CD
     * [Github Actions](https://github.com/actions)
 
- * Firebase
-    * [Firebase crashlytics](https://firebase.google.com/products/crashlytics)  Open-source error tracking that helps developers monitor and fix crashes in real time. Debug your application and prevent crashes across your entire stack. 
+ 
    
   
  ### Screenshot
