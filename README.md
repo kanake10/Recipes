@@ -24,7 +24,7 @@ Recipes Android App using [Android Architecture Components](https://developer.an
     * [Github Actions](https://github.com/actions)
 
  * Firebase
-    * [GFirebase crashlytics](https://firebase.google.com/products/crashlytics)  Open-source error tracking that helps developers monitor and fix crashes in real time. Debug your application and prevent crashes across your entire stack. 
+    * [Firebase crashlytics](https://firebase.google.com/products/crashlytics)  Open-source error tracking that helps developers monitor and fix crashes in real time. Debug your application and prevent crashes across your entire stack. 
    
   
  ### Screenshot
