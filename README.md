@@ -1,7 +1,7 @@
 # Recipes
 Recipes Android App using [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/), Kotlin, using Android Jetpack Components, and in Compose.
 
-### How it's built
+### How it's built.
 
 * Technologies used
    
